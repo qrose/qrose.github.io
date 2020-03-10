@@ -7,8 +7,7 @@ a {
 }
 
 .category {
-	display: flex;
-	flex-direction: column;
+	display: block;
 	border: 1px solid;
 	border-radius: 4px;
 	width: 100%;
