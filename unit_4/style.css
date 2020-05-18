@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montsserat);
+@import url(https://fonts.googleapis.com/css?family=Poppins);
 
 @import url(https://fonts.googleapis.com/css?family=Jost);
 
@@ -7,9 +7,14 @@ h1 {
 	font-family: 'Jost';
 }
 
+h2 {
+	font-family: 'Poppins';
+	font-size: 32px;
+}
+
 p {
-	font-family: 'Montsserat';
-	font-size: 18px;
+	font-family: 'Poppins';
+	font-size: 16px;
 	line-height: 1.5em;
 	margin: 2em;
 }
