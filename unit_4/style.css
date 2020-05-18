@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Montsserat);
+
+@import url(https://fonts.googleapis.com/css?family=Jost);
+
+h1 {
+	text-align: center;
+	font-family: 'Jost';
+}
+
+p {
+	font-family: 'Montsserat';
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
