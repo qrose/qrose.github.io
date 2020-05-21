@@ -25,6 +25,14 @@ header {
 	background-color: #FFED74;
 }
 
-section {
+.events {
 	background-color: 000000
+}
+
+.category {
+	background-color: blue;
+}
+
+footer {
+	background-color: green;
 }
